@@ -1,0 +1,5 @@
+2020-11-10 10:54:53,389 Loading the features
+2020-11-10 10:54:53,400 vectorized using tfidf
+2020-11-10 10:54:53,407 Spliting into test and traning 
+2020-11-10 10:54:53,544 training the classifier
+2020-11-10 10:54:53,560 showing the accuracy

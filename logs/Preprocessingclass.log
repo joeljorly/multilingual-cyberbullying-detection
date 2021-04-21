@@ -1,0 +1,62 @@
+2020-12-10 19:54:18,894 INFO word tokenization completed
+2020-12-10 19:54:18,907 INFO pattern finding
+2020-12-10 19:54:18,907 INFO pattern matching
+2020-12-10 19:54:18,907 INFO word tokenization completed
+2020-12-10 19:54:18,920 INFO pattern finding
+2020-12-10 19:54:18,920 INFO pattern matching
+2020-12-10 19:54:18,920 INFO word tokenization completed
+2020-12-10 19:54:18,933 INFO pattern finding
+2020-12-10 19:54:18,933 INFO pattern matching
+2020-12-10 19:54:18,933 DEBUG ['podi', 'kundante', 'mole']
+2020-12-10 19:54:18,933 INFO word tokenization completed
+2020-12-10 19:54:18,945 INFO pattern finding
+2020-12-10 19:54:18,946 INFO pattern matching
+2020-12-10 19:54:18,946 INFO word tokenization completed
+2020-12-10 19:54:18,959 INFO pattern finding
+2020-12-10 19:54:18,959 INFO pattern matching
+2020-12-10 19:54:19,048 INFO spell checking and correction
+2020-12-10 19:54:19,048 INFO word tokenization completed
+2020-12-10 19:54:19,061 INFO pattern finding
+2020-12-10 19:54:19,061 INFO pattern matching
+2020-12-10 19:54:19,061 INFO word tokenization completed
+2020-12-10 19:54:19,074 INFO pattern finding
+2020-12-10 19:54:19,074 INFO pattern matching
+2020-12-10 19:54:19,074 DEBUG ['ente', 'ama', 'samadhanam', 'aayi']
+2020-12-10 19:54:19,075 INFO word tokenization completed
+2020-12-10 19:54:19,088 INFO pattern finding
+2020-12-10 19:54:19,088 INFO pattern matching
+2020-12-10 19:54:19,173 INFO spell checking and correction
+2020-12-10 19:54:19,173 INFO word tokenization completed
+2020-12-10 19:54:19,186 INFO pattern finding
+2020-12-10 19:54:19,187 INFO pattern matching
+2020-12-10 19:54:19,271 INFO spell checking and correction
+2020-12-10 19:54:19,271 INFO word tokenization completed
+2020-12-10 19:54:19,283 INFO pattern finding
+2020-12-10 19:54:19,729 INFO spell checking and correction
+2020-12-10 19:54:19,729 INFO word tokenization completed
+2020-12-10 19:54:19,742 INFO pattern finding
+2020-12-10 19:54:19,746 INFO pattern matching
+2020-12-10 19:54:19,833 INFO spell checking and correction
+2020-12-10 19:54:19,833 DEBUG ['nannayii', 'sha', 'deserved', 'i']
+2020-12-10 19:54:19,834 INFO word tokenization completed
+2020-12-10 19:54:19,853 INFO pattern finding
+2020-12-10 19:54:19,854 INFO pattern matching
+2020-12-10 19:54:19,936 INFO spell checking and correction
+2020-12-10 19:54:19,936 INFO word tokenization completed
+2020-12-10 19:54:19,949 INFO pattern finding
+2020-12-10 19:54:19,949 INFO pattern matching
+2020-12-10 19:54:19,949 INFO word tokenization completed
+2020-12-10 19:54:19,961 INFO pattern finding
+2020-12-10 19:54:20,679 INFO spell checking and correction
+2020-12-10 19:54:20,680 INFO word tokenization completed
+2020-12-10 19:54:20,692 INFO pattern finding
+2020-12-10 19:54:20,692 INFO pattern matching
+2020-12-10 19:54:20,693 DEBUG ['ayya', 'poye', 'ayya', 'poye']
+2020-12-10 19:54:20,693 INFO word tokenization completed
+2020-12-10 19:54:20,706 INFO pattern finding
+2020-12-10 19:54:20,706 INFO pattern matching
+2020-12-10 19:54:20,706 DEBUG ['patti']
+2020-12-10 19:54:20,706 INFO word tokenization completed
+2020-12-10 19:54:20,719 INFO pattern finding
+2020-12-10 19:54:20,719 INFO pattern matching
+2020-12-10 19:54:20,719 DEBUG ['uchitham']

@@ -1,0 +1,236 @@
+2020-11-10 14:41:00,007 Loading the features
+2020-11-10 14:41:00,046 vectorization using tf-idf
+2020-11-10 14:41:00,053 Spliting data into training and test
+2020-11-10 14:41:00,060 training the classifier
+2020-11-10 14:41:00,068 showing the accuracy
+2020-11-10 14:41:44,520 Loading the features
+2020-11-10 14:41:44,534 vectorization using tf-idf
+2020-11-10 14:41:44,536 Spliting data into training and test
+2020-11-10 14:41:44,542 training the classifier
+2020-11-10 14:41:44,549 showing the accuracy
+2020-11-10 14:43:22,825 Loading the features
+2020-11-10 14:43:22,834 vectorization using tf-idf
+2020-11-10 14:43:22,838 Spliting data into training and test
+2020-11-10 14:43:22,844 training the classifier
+2020-11-10 14:43:22,851 showing the accuracy
+2020-11-10 14:43:34,109 Loading the features
+2020-11-10 14:43:34,120 vectorization using tf-idf
+2020-11-10 14:43:34,122 Spliting data into training and test
+2020-11-10 14:43:34,128 training the classifier
+2020-11-10 14:43:34,134 showing the accuracy
+2020-11-10 14:43:50,371 Loading the features
+2020-11-10 14:43:50,382 vectorization using tf-idf
+2020-11-10 14:43:50,384 Spliting data into training and test
+2020-11-10 14:43:50,390 training the classifier
+2020-11-10 14:43:50,397 showing the accuracy
+2020-11-10 16:43:18,029 Loading the features
+2020-11-10 16:43:18,039 vectorization using tf-idf
+2020-11-10 16:43:18,042 Spliting data into training and test
+2020-11-10 16:43:18,049 training the classifier
+2020-11-10 16:43:18,056 showing the accuracy
+2020-11-10 16:43:22,470 Loading the features
+2020-11-10 16:43:22,478 vectorization using tf-idf
+2020-11-10 16:43:22,483 Spliting data into training and test
+2020-11-10 16:43:22,490 training the classifier
+2020-11-10 16:43:22,498 showing the accuracy
+2020-11-10 17:22:26,549 Loading the features
+2020-11-10 17:22:26,557 vectorization using tf-idf
+2020-11-10 17:22:26,559 Spliting data into training and test
+2020-11-10 17:22:26,568 training the classifier
+2020-11-10 17:22:26,575 showing the accuracy
+2020-11-10 17:24:35,363 Loading the features
+2020-11-10 17:24:35,370 vectorization using tf-idf
+2020-11-10 17:24:35,373 Spliting data into training and test
+2020-11-10 17:24:50,053 Loading the features
+2020-11-10 17:24:50,064 vectorization using tf-idf
+2020-11-10 17:24:50,067 Spliting data into training and test
+2020-11-10 17:24:50,074 training the classifier
+2020-11-10 17:24:50,081 showing the accuracy
+2020-11-10 17:24:52,793 Loading the features
+2020-11-10 17:24:52,806 vectorization using tf-idf
+2020-11-10 17:24:52,809 Spliting data into training and test
+2020-11-10 17:24:52,817 training the classifier
+2020-11-10 17:24:52,827 showing the accuracy
+2020-11-10 17:38:27,830 Loading the features
+2020-11-10 17:38:27,841 vectorization using tf-idf
+2020-11-10 17:38:46,339 Loading the features
+2020-11-10 17:38:46,349 vectorization using tf-idf
+2020-11-10 17:39:46,609 Loading the features
+2020-11-10 17:39:46,620 vectorization using tf-idf
+2020-11-10 17:40:32,068 Loading the features
+2020-11-10 17:40:32,080 vectorization using tf-idf
+2020-11-10 17:40:53,568 Loading the features
+2020-11-10 17:40:53,577 vectorization using tf-idf
+2020-11-10 17:41:32,734 Loading the features
+2020-11-10 17:41:32,748 vectorization using tf-idf
+2020-11-10 17:42:32,414 Loading the features
+2020-11-10 17:42:32,425 vectorization using tf-idf
+2020-11-10 17:42:57,038 Loading the features
+2020-11-10 17:42:57,048 vectorization using tf-idf
+2020-11-10 17:43:16,804 Loading the features
+2020-11-10 17:43:16,816 vectorization using tf-idf
+2020-11-10 17:43:25,126 Loading the features
+2020-11-10 17:43:25,135 vectorization using tf-idf
+2020-11-10 17:43:42,683 Loading the features
+2020-11-10 17:43:42,692 vectorization using tf-idf
+2020-11-10 17:43:43,865 showing the accuracy
+2020-11-10 17:44:06,664 Loading the features
+2020-11-10 17:44:06,678 vectorization using tf-idf
+2020-11-10 17:44:07,832 showing the accuracy
+2020-11-10 17:44:58,297 Loading the features
+2020-11-10 17:44:58,306 vectorization using tf-idf
+2020-11-10 17:44:58,309 Spliting data into training and test
+2020-11-10 17:44:58,317 training the classifier
+2020-11-10 17:44:58,324 showing the accuracy
+2020-11-10 18:26:55,673 Loading the features
+2020-11-10 18:26:55,687 vectorization using tf-idf
+2020-11-10 18:26:55,692 Spliting data into training and test
+2020-11-10 18:26:55,699 training the classifier
+2020-11-10 18:26:55,708 showing the accuracy
+2020-11-10 18:44:07,421 Loading the features
+2020-11-10 18:44:07,434 vectorization using tf-idf
+2020-11-10 18:44:07,436 Spliting data into training and test
+2020-11-10 18:44:07,444 training the classifier
+2020-11-10 18:44:07,452 showing the accuracy
+2020-11-10 18:48:52,262 Loading the features
+2020-11-10 18:49:05,603 Loading the features
+2020-11-10 18:49:05,615 vectorization using tf-idf
+2020-11-10 18:49:05,617 Spliting data into training and test
+2020-11-10 18:49:05,625 training the classifier
+2020-11-10 18:49:05,632 showing the accuracy
+2020-11-10 18:50:47,264 Loading the features
+2020-11-10 18:50:47,275 vectorization using tf-idf
+2020-11-10 18:50:47,278 Spliting data into training and test
+2020-11-10 18:50:47,285 training the classifier
+2020-11-10 18:50:47,293 showing the accuracy
+2020-11-10 18:51:04,540 Loading the features
+2020-11-10 18:51:04,551 vectorization using tf-idf
+2020-11-10 18:51:45,567 Loading the features
+2020-11-10 18:51:45,574 vectorization using tf-idf
+2020-11-10 18:51:51,347 Loading the features
+2020-11-10 18:51:51,359 vectorization using tf-idf
+2020-11-10 18:52:10,732 Loading the features
+2020-11-10 18:52:10,741 vectorization using tf-idf
+2020-11-10 18:59:49,984 Loading the features
+2020-11-10 18:59:49,995 vectorization using tf-idf
+2020-11-10 18:59:49,997 Spliting data into training and test
+2020-11-10 18:59:53,847 showing the accuracy
+2020-11-10 19:01:10,188 Loading the features
+2020-11-10 19:01:10,196 vectorization using tf-idf
+2020-11-10 19:01:10,199 Spliting data into training and test
+2020-11-10 19:01:16,068 showing the accuracy
+2020-11-10 19:03:19,261 Loading the features
+2020-11-10 19:03:19,271 vectorization using tf-idf
+2020-11-10 19:03:19,274 Spliting data into training and test
+2020-11-10 19:03:23,028 showing the accuracy
+2020-11-10 19:03:36,609 Loading the features
+2020-11-10 19:03:36,623 vectorization using tf-idf
+2020-11-10 19:03:36,626 Spliting data into training and test
+2020-11-10 19:03:40,384 showing the accuracy
+2020-11-10 19:04:59,358 Loading the features
+2020-11-10 19:04:59,368 vectorization using tf-idf
+2020-11-10 19:04:59,370 Spliting data into training and test
+2020-11-10 19:05:03,133 showing the accuracy
+2020-11-10 19:05:20,135 Loading the features
+2020-11-10 19:05:20,144 vectorization using tf-idf
+2020-11-10 19:05:20,145 Spliting data into training and test
+2020-11-10 19:05:23,909 showing the accuracy
+2020-11-10 19:05:36,561 Loading the features
+2020-11-10 19:05:36,569 vectorization using tf-idf
+2020-11-10 19:05:36,570 Spliting data into training and test
+2020-11-10 19:05:40,490 showing the accuracy
+2020-11-10 19:06:14,959 Loading the features
+2020-11-10 19:06:14,970 vectorization using tf-idf
+2020-11-10 19:06:14,972 Spliting data into training and test
+2020-11-10 19:06:18,810 showing the accuracy
+2020-11-10 19:06:40,914 Loading the features
+2020-11-10 19:06:40,926 vectorization using tf-idf
+2020-11-10 19:06:40,928 Spliting data into training and test
+2020-11-10 19:06:44,698 showing the accuracy
+2020-11-10 19:07:46,479 Loading the features
+2020-11-10 19:07:46,490 vectorization using tf-idf
+2020-11-10 19:07:46,492 Spliting data into training and test
+2020-11-10 19:07:50,343 showing the accuracy
+2020-11-10 19:07:59,442 Loading the features
+2020-11-10 19:07:59,449 vectorization using tf-idf
+2020-11-10 19:07:59,451 Spliting data into training and test
+2020-11-10 19:08:03,217 showing the accuracy
+2020-11-10 19:09:04,367 Loading the features
+2020-11-10 19:09:04,376 vectorization using tf-idf
+2020-11-10 19:09:04,378 Spliting data into training and test
+2020-11-10 19:09:24,317 Loading the features
+2020-11-10 19:09:24,329 vectorization using tf-idf
+2020-11-10 19:09:24,331 Spliting data into training and test
+2020-11-10 19:09:24,346 showing the accuracy
+2020-11-10 19:10:34,327 Loading the features
+2020-11-10 19:10:34,336 vectorization using tf-idf
+2020-11-10 19:10:34,339 Spliting data into training and test
+2020-11-10 19:10:37,528 showing the accuracy
+2020-11-10 19:11:39,438 Loading the features
+2020-11-10 19:11:39,446 vectorization using tf-idf
+2020-11-10 19:11:39,449 Spliting data into training and test
+2020-11-10 19:11:39,464 showing the accuracy
+2020-11-10 19:11:52,753 Loading the features
+2020-11-10 19:11:52,761 vectorization using tf-idf
+2020-11-10 19:11:52,764 Spliting data into training and test
+2020-11-10 19:11:52,776 showing the accuracy
+2020-11-10 19:12:09,420 Loading the features
+2020-11-10 19:12:09,427 vectorization using tf-idf
+2020-11-10 19:12:09,429 Spliting data into training and test
+2020-11-10 19:12:09,444 showing the accuracy
+2020-11-10 19:12:47,733 Loading the features
+2020-11-10 19:12:47,741 vectorization using tf-idf
+2020-11-10 19:12:47,743 Spliting data into training and test
+2020-11-10 19:12:47,757 showing the accuracy
+2020-11-10 19:13:01,439 Loading the features
+2020-11-10 19:13:01,451 vectorization using tf-idf
+2020-11-10 19:13:01,454 Spliting data into training and test
+2020-11-10 19:13:01,468 showing the accuracy
+2020-11-10 19:13:12,407 Loading the features
+2020-11-10 19:13:12,418 vectorization using tf-idf
+2020-11-10 19:13:12,420 Spliting data into training and test
+2020-11-10 19:13:12,436 showing the accuracy
+2020-11-10 19:13:31,696 Loading the features
+2020-11-10 19:13:31,708 vectorization using tf-idf
+2020-11-10 19:13:31,711 Spliting data into training and test
+2020-11-10 19:13:34,924 showing the accuracy
+2020-11-10 19:13:59,462 Loading the features
+2020-11-10 19:13:59,474 vectorization using tf-idf
+2020-11-10 19:13:59,477 Spliting data into training and test
+2020-11-10 19:14:03,282 showing the accuracy
+2020-11-10 19:14:48,220 Loading the features
+2020-11-10 19:14:48,233 vectorization using tf-idf
+2020-11-10 19:14:48,236 Spliting data into training and test
+2020-11-10 19:14:51,992 showing the accuracy
+2020-11-10 19:20:14,284 Loading the features
+2020-11-10 19:20:14,295 vectorization using tf-idf
+2020-11-10 19:20:14,298 Spliting data into training and test
+2020-11-10 19:20:18,038 showing the accuracy
+2020-11-10 19:20:38,351 Loading the features
+2020-11-10 19:20:38,360 vectorization using tf-idf
+2020-11-10 19:20:38,363 Spliting data into training and test
+2020-11-10 19:20:42,719 showing the accuracy
+2020-11-10 19:21:02,800 Loading the features
+2020-11-10 19:21:02,808 vectorization using tf-idf
+2020-11-10 19:21:02,811 Spliting data into training and test
+2020-11-10 19:21:07,795 showing the accuracy
+2020-11-10 19:25:07,057 Loading the features
+2020-11-10 19:25:07,067 vectorization using tf-idf
+2020-11-10 19:25:07,070 Spliting data into training and test
+2020-11-10 19:25:12,039 showing the accuracy
+2020-11-10 19:25:36,943 Loading the features
+2020-11-10 19:25:36,950 vectorization using tf-idf
+2020-11-10 19:25:36,952 Spliting data into training and test
+2020-11-10 19:25:41,948 showing the accuracy
+2020-11-10 19:29:15,326 Loading the features
+2020-11-10 19:29:15,340 vectorization using tf-idf
+2020-11-10 19:29:15,342 Spliting data into training and test
+2020-11-10 19:29:20,535 showing the accuracy
+2020-11-10 19:33:36,728 Loading the features
+2020-11-10 19:33:36,735 vectorization using tf-idf
+2020-11-10 19:33:36,741 Spliting data into training and test
+2020-11-10 19:33:41,769 showing the accuracy
+2020-11-10 19:36:17,640 Loading the features
+2020-11-10 19:36:17,649 vectorization using tf-idf
+2020-11-10 19:36:17,652 Spliting data into training and test
+2020-11-10 19:36:22,764 showing the accuracy
