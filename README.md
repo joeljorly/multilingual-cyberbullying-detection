@@ -4,7 +4,7 @@
 
 Machine learning can be used to detect cyberbullying from Comments/reviews. In this study, the focus is on identifying textual cyberbullying from social media using the comments under a post. Comments are scrapped with the help of the Selenium web driver. Using classification algorithms, it is possible to classify the comments as cyberbullying or supporting. Since it is a supervised machine learning task, datasets(comments) are manually labelled and these labelled datasets are used for training the classifier. By including suitable pre-processing techniques, many language barriers are overcome. The model is trained to detect the custom features from Malayalam and English transliteration of Malayalam language (Indian regional language). Applying ML on regional languages is always a great task, Cyberbullying detection on the Malayalam language is a unique one. The model is trained with various algorithms like Random Forest, XGBoost, SVM and choose the one which produces more accuracy.
 
-<h3> To run the project: </h3>
+<h3> To run the project : </h3>
 
 - pip install -r requirements.txt
 
