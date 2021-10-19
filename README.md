@@ -10,7 +10,7 @@ Machine learning can be used to detect cyberbullying from Comments/reviews. In t
 
 - insta.py: It helps to scrap the comments from Instagram. Replace the URL of your wish to start scrapping (Note: Use the only posts belongs to Malayalam community)
 
-- filtering.py: This helps to remove emoji’s, stopwords, punctuations, removing English sentences etc. (to run: python3 filtering.py) it starts to filter the scrapped comment dataset from the data folder
+- filtering.py: This helps to remove emojis, stop words, punctuations, removing English sentences etc. (to run: python3 filtering.py) it starts to filter the scrapped comment dataset from the data folder
 
 - preprocessing.py: This helps to correct the spelling of the words in the sentences from the filtered comments. (to run: python3 preprocessing.py)
 
